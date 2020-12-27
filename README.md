@@ -1,4 +1,4 @@
-#fb-predictions
+# AI Project - Predict Popularity of Facebook Posts
 
 In this project, we've tried to predict popularity of Facebook posts. 
 We focused on anonymous posts from confession pages of universities in the UK, USA and Canada. 
